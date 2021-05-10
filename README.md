@@ -562,4 +562,4 @@ print(rms)
 >0.3442383
 
 ## Analysis
-For in depth analysis and customer profiling see **Analysis Section** of the google colab  
+For in depth analysis and customer profiling see **Analysis Section** of the google colab.
